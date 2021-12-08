@@ -1,3 +1,3 @@
 # portfolio_website
 A portfolio website
-inischal.netlify.app
+Click [here](inischal.netlify.app)
